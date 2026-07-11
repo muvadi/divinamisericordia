@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Pagina Principale / Italiana -->
+  <url>
+    <loc>https://muvadi.github.io/divinamisericordia/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://muvadi.github.io/divinamisericordia/index-it.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://muvadi.github.io/divinamisericordia/index-es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://muvadi.github.io/divinamisericordia/index-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muvadi.github.io/divinamisericordia/index-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://muvadi.github.io/divinamisericordia/index-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://muvadi.github.io/divinamisericordia/index-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://muvadi.github.io/divinamisericordia/index-sw.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muvadi.github.io/divinamisericordia/index-it.html"/>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Versione Italiana (Duplicato esplicito dell'URL principale) -->
+  <url>
+    <loc>https://muvadi.github.io/divinamisericordia/index-it.html</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://muvadi.github.io/divinamisericordia/index-it.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://muvadi.github.io/divinamisericordia/index-es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://muvadi.github.io/divinamisericordia/index-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muvadi.github.io/divinamisericordia/index-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://muvadi.github.io/divinamisericordia/index-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://muvadi.github.io/divinamisericordia/index-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://muvadi.github.io/divinamisericordia/index-sw.html"/>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Versione Spagnola -->
+  <url>
+    <loc>https://muvadi.github.io/divinamisericordia/index-es.html</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://muvadi.github.io/divinamisericordia/index-it.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://muvadi.github.io/divinamisericordia/index-es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://muvadi.github.io/divinamisericordia/index-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muvadi.github.io/divinamisericordia/index-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://muvadi.github.io/divinamisericordia/index-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://muvadi.github.io/divinamisericordia/index-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://muvadi.github.io/divinamisericordia/index-sw.html"/>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Versione Portoghese -->
+  <url>
+    <loc>https://muvadi.github.io/divinamisericordia/index-pt.html</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://muvadi.github.io/divinamisericordia/index-it.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://muvadi.github.io/divinamisericordia/index-es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://muvadi.github.io/divinamisericordia/index-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muvadi.github.io/divinamisericordia/index-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://muvadi.github.io/divinamisericordia/index-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://muvadi.github.io/divinamisericordia/index-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://muvadi.github.io/divinamisericordia/index-sw.html"/>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Versione Polacca -->
+  <url>
+    <loc>https://muvadi.github.io/divinamisericordia/index-pl.html</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://muvadi.github.io/divinamisericordia/index-it.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://muvadi.github.io/divinamisericordia/index-es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://muvadi.github.io/divinamisericordia/index-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muvadi.github.io/divinamisericordia/index-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://muvadi.github.io/divinamisericordia/index-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://muvadi.github.io/divinamisericordia/index-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://muvadi.github.io/divinamisericordia/index-sw.html"/>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Versione Vietnamita -->
+  <url>
+    <loc>https://muvadi.github.io/divinamisericordia/index-vi.html</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://muvadi.github.io/divinamisericordia/index-it.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://muvadi.github.io/divinamisericordia/index-es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://muvadi.github.io/divinamisericordia/index-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muvadi.github.io/divinamisericordia/index-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://muvadi.github.io/divinamisericordia/index-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://muvadi.github.io/divinamisericordia/index-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://muvadi.github.io/divinamisericordia/index-sw.html"/>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Versione Francese -->
+  <url>
+    <loc>https://muvadi.github.io/divinamisericordia/index-fr.html</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://muvadi.github.io/divinamisericordia/index-it.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://muvadi.github.io/divinamisericordia/index-es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://muvadi.github.io/divinamisericordia/index-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muvadi.github.io/divinamisericordia/index-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://muvadi.github.io/divinamisericordia/index-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://muvadi.github.io/divinamisericordia/index-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://muvadi.github.io/divinamisericordia/index-sw.html"/>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Versione Swahili -->
+  <url>
+    <loc>https://muvadi.github.io/divinamisericordia/index-sw.html</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://muvadi.github.io/divinamisericordia/index-it.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://muvadi.github.io/divinamisericordia/index-es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://muvadi.github.io/divinamisericordia/index-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muvadi.github.io/divinamisericordia/index-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://muvadi.github.io/divinamisericordia/index-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://muvadi.github.io/divinamisericordia/index-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="https://muvadi.github.io/divinamisericordia/index-sw.html"/>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
